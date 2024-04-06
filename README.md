@@ -19,6 +19,6 @@ The result of the project can guide the user and inform them of the risk. It is 
 - PES2UG20CS333 - [SHRIYA YS](https://github.com/shriyays)
 - PES2UG20CS204 - [MOULYA SHETTY](https://github.com/MoulyaShetty)
 - PES2UG20CS205 - [MRUNMAYI DESHPANDE](https://github.com/MrunDeshpande)
-- PES2UG20CS208 - SHREYA NADELLA
-- PES2UG20CS211 - NAMEETA KURUWATTI
-- PES2UG20CS232 - NIVEDITA VENKAT
+- PES2UG20CS208 - [SHREYA NADELLA](https://github.com/shreyanadella)
+- PES2UG20CS211 - [NAMEETA KURUWATTI](https://github.com/nameetak-22)
+- PES2UG20CS232 - [NIVEDITA VENKAT](https://github.com/doots18)
