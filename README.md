@@ -14,9 +14,9 @@ The result of the project can guide the user and inform them of the risk. It is 
 
 **Team Members**
 
-1.PES2UG20CS333 - SHRIYA YS
-2.PES2UG20CS204 - MOULYA SHETTY
-3.PES2UG20CS205 - MRUNMAYI DESHPANDE
+1.PES2UG20CS333 - SHRIYA YS https://github.com/shriyays
+2.PES2UG20CS204 - MOULYA SHETTY https://github.com/MoulyaShetty
+3.PES2UG20CS205 - MRUNMAYI DESHPANDE https://github.com/MrunmayiDeshpande
 4.PES2UG20CS208 - SHREYA NADELLA
 5.PES2UG20CS211 - NAMEETA KURUWATTI
 6.PES2UG20CS232 - NIVEDITA VENKAT
