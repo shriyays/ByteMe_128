@@ -7,7 +7,7 @@ Our model helps classifying the risk of cervical cancer based on certain factors
 The result of the project can guide the user and inform them of the risk. It is then the users choice to give it immediate attention and visit a hospital for a biopsy.
 
 
-# Team - 128 : Byte Me
+## Team 128 - BYTE ME
 
 **Team Members**
 
